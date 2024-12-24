@@ -1,7 +1,7 @@
-package com.cqrs.cqrsbankingapp.web.dto.modelDto;
+package com.cqrs.cqrsbankingapp.web.dto;
 
-import com.cqrs.cqrsbankingapp.web.dto.OnCreate;
-import com.cqrs.cqrsbankingapp.web.dto.OnUpdate;
+import com.cqrs.cqrsbankingapp.web.OnCreate;
+import com.cqrs.cqrsbankingapp.web.OnUpdate;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

@@ -1,7 +1,7 @@
-package com.cqrs.cqrsbankingapp.web.dto.modelDto;
+package com.cqrs.cqrsbankingapp.web.dto;
 
-import com.cqrs.cqrsbankingapp.web.dto.OnCreate;
-import com.cqrs.cqrsbankingapp.web.dto.OnUpdate;
+import com.cqrs.cqrsbankingapp.web.OnCreate;
+import com.cqrs.cqrsbankingapp.web.OnUpdate;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Null;

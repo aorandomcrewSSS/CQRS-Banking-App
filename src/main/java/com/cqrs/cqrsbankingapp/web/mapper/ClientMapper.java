@@ -1,7 +1,7 @@
-package com.cqrs.cqrsbankingapp.web.dto.mapper;
+package com.cqrs.cqrsbankingapp.web.mapper;
 
 import com.cqrs.cqrsbankingapp.domain.model.Client;
-import com.cqrs.cqrsbankingapp.web.dto.modelDto.ClientDto;
+import com.cqrs.cqrsbankingapp.web.dto.ClientDto;
 import org.mapstruct.Mapper;
 
 @Mapper(componentModel = "Spring")

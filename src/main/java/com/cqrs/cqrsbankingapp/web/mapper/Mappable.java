@@ -1,4 +1,4 @@
-package com.cqrs.cqrsbankingapp.web.dto.mapper;
+package com.cqrs.cqrsbankingapp.web.mapper;
 
 import java.util.List;
 
